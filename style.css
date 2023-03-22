@@ -1,0 +1,28 @@
+div {
+    background-color: aquamarine;
+}
+
+h2 {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-size: 50px;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    font-family: 'Lora', serif;
+}
+
+.imagen-de-gatos {
+    width: 100px;
+    border-width: 10px;
+    border-color: orangered;
+    border-style: dashed dotted solid double;
+}
+
+.bordes-redondeados {
+    border-radius: 50%;
+}
+
