@@ -23,6 +23,14 @@ a {
 }
 
 .bordes-redondeados {
-    border-radius: 50%;
+    border-radius: 40%;
+}
+
+ol {
+    color: brown;
+}
+
+ul {
+    color: chartreuse;
 }
 
